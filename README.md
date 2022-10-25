@@ -21,11 +21,11 @@
    <img alt="GitHub" src="https://img.shields.io/github/license/issufibadji/deliverfood?style=flat-square">
 </p>
 
-![goodfood](https://github.com/issufibadji/deliverfood/blob/master/assets/deliverfood.png)
+![deliverfood](https://github.com/issufibadji/deliverfood/blob/master/assets/deliverfood.png)
 
 ## :book: Sobre
 O **goodfood**
- é um Projeto referente a um Restaurante fictício de Pratos Saudáveis, que foi desenvolvido por meio do canal [Bedimcode](https://www.youtube.com/channel/UCgkDs77BoEhMIgRUB4MKrtQ) no [Youtube](https://www.youtube.com)
+ é um Projeto referente a um Restaurante fictício de Pratos Saudáveis, que foi desenvolvido para um cliente.
 
 ## :cloud: Deploy
 O projeto está hospedado no Github Pages
@@ -40,10 +40,10 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 
 ## 🔖Layout
-Para visualizar o layout do projeto crie ou acesse sua conta no [bedimcode](bedimcode.com) e [desse link](https://www.buymeacoffee.com/bedimcode/e/11212) para acessá-lo.
+Para visualizar o layout do projeto acesse sua  [Figma](figma.com) e [desse link](https://www.figma.com/) para acessá-lo.
 
 ## :memo: Licença
-Este projeto esta sobe a licença MIT. Consulte a [LICENÇA](https://github.com/issufibadji/goodfood/blob/master/LINCENSE) para obter mais informações.
+Este projeto esta sobe a licença MIT. Consulte a [LICENÇA](https://github.com/issufibadji/deliverfood/blob/master/LINCENSE) para obter mais informações.
 
 ---
 
