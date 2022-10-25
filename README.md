@@ -21,7 +21,7 @@
    <img alt="GitHub" src="https://img.shields.io/github/license/issufibadji/deliverfood?style=flat-square">
 </p>
 
-![deliverfood](https://github.com/issufibadji/curriculumissufibadji/blob/master/assets/img/curriculum.png)
+![deliverfood](https://github.com/issufibadji/deliverfood/blob/master/assets/deliverfood.png)
 
 ## :book: Sobre
 O **goodfood**
