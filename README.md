@@ -24,7 +24,7 @@
 ![deliverfood](https://github.com/issufibadji/deliverfood/blob/master/assets/deliverfood.png)
 
 ## :book: Sobre
-O **goodfood**
+O **deliverfood**
  é um Projeto referente a um Restaurante fictício de Pratos Saudáveis, que foi desenvolvido para um cliente.
 
 ## :cloud: Deploy
